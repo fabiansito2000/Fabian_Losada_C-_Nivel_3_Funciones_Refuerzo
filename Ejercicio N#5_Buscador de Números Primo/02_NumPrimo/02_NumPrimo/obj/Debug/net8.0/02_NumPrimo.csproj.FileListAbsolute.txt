@@ -1,0 +1,14 @@
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\bin\Debug\net8.0\02_NumPrimo.exe
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\bin\Debug\net8.0\02_NumPrimo.deps.json
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\bin\Debug\net8.0\02_NumPrimo.runtimeconfig.json
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\bin\Debug\net8.0\02_NumPrimo.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\bin\Debug\net8.0\02_NumPrimo.pdb
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\obj\Debug\net8.0\02_NumPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\obj\Debug\net8.0\02_NumPrimo.AssemblyInfoInputs.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\obj\Debug\net8.0\02_NumPrimo.AssemblyInfo.cs
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\obj\Debug\net8.0\02_NumPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\obj\Debug\net8.0\02_NumPrimo.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\obj\Debug\net8.0\refint\02_NumPrimo.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\obj\Debug\net8.0\02_NumPrimo.pdb
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\obj\Debug\net8.0\02_NumPrimo.genruntimeconfig.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Reto_Refuerzo_Funciones\Ejercicio N#5_Buscador de Números Primo\02_NumPrimo\02_NumPrimo\obj\Debug\net8.0\ref\02_NumPrimo.dll
